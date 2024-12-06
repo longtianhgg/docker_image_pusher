@@ -136,6 +136,7 @@ jobs:
                   name_space_prefix="${name_space}_"
                fi
             fi
+
             
             # 将@sha256:等字符删除
             image_name_tag="${image_name_tag%%@*}"
