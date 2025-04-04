@@ -1,2 +1,1 @@
---platform=linux/amd64 haroldli/xiaoya-tvbox:latest
---platform=linux/arm64 haroldli/xiaoya-tvbox:latest
+linkease/kspeeder:latest
